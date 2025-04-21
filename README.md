@@ -2,17 +2,17 @@
 <h3 align="center">A passionate Data Scientist from Brazil</h3>
 
 - 🔭 I’m currently working on:
-         **. Data pipelines
-           . Neural Networks and Machine Learning algorithms
-           . Python scripts for data engineering
-           . Data warehouses and lakehouses
-           . Data flows
-           . REST APIs
-           . Power BI
-           . JS-based web pages
-           . HTML and CSS scripts for web interfaces
-           . Python backend applications
-           . SQL and NoSQL databases.**
+  - **Data pipelines**
+  - **Neural Networks and Machine Learning algorithms**
+  - **Python scripts for data engineering**
+  - **Data warehouses and lakehouses**
+  - **Data flows**
+  - **REST APIs**
+  - **Power BI**
+  - **JS-based web pages**
+  - **HTML and CSS scripts for web interfaces**
+  - **Python backend applications**
+  - **SQL and NoSQL databases**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
