@@ -4,14 +4,14 @@
 - 🔭 I’m currently working on:
   - **Data pipelines**
   - **Neural networks and machine learning algorithms**
-  - **Python scripts for data engineering**
+  - **Data engineering**
   - **Data warehouses and lakehouses**
   - **Data flows**
   - **REST APIs**
   - **Power BI**
   - **JS-based web pages**
   - **HTML and CSS scripts for web interfaces**
-  - **Python backend applications**
+  - **Backend applications**
   - **DevOps**
   - **SQL and NoSQL databases**
  
