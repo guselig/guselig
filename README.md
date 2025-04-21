@@ -12,6 +12,7 @@
   - **JS-based web pages**
   - **HTML and CSS scripts for web interfaces**
   - **Python backend applications**
+  - **DevOps**
   - **SQL and NoSQL databases**
 
 <h3 align="left">Connect with me:</h3>
