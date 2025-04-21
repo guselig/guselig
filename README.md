@@ -14,6 +14,12 @@
   - **Python backend applications**
   - **DevOps**
   - **SQL and NoSQL databases**
+ 
+- 👯 I'm looking to collaborate on:
+  - **End-to-end deep learning projects**
+  - **Neural network training and optimization**
+  - **Cloud-based MLOps workflows**
+  - **Scalable data pipeline architecture**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
