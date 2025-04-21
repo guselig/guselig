@@ -20,6 +20,10 @@
   - **Neural network training and optimization**
   - **Cloud-based MLOps workflows**
   - **Scalable data pipeline architecture**
+ 
+- 📫 How to reach me:
+  - **guselig@gmail.com**
+  - **https://www.linkedin.com/in/gustavo-selig-bb55551a3/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
