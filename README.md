@@ -24,6 +24,9 @@
 - 📫 How to reach me:
   - **guselig@gmail.com**
   - **https://www.linkedin.com/in/gustavo-selig-bb55551a3/**
+ 
+- 👨‍💻 All of my projects are available at:
+  - **https://github.com/guselig?tab=repositories**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
