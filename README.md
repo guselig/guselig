@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on:
   - **Data pipelines**
-  - **Neural Networks and Machine Learning algorithms**
+  - **Neural networks and machine learning algorithms**
   - **Python scripts for data engineering**
   - **Data warehouses and lakehouses**
   - **Data flows**
